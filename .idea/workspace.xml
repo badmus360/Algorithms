@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd9bd306-ca76-46d4-996f-69080c1a20ef" name="Changes" comment="first commiting">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codewars/kata7kyu/SquareOfSquares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd9bd306-ca76-46d4-996f-69080c1a20ef" name="Changes" comment="first commiting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
