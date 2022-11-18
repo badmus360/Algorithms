@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd9bd306-ca76-46d4-996f-69080c1a20ef" name="Changes" comment="first commiting" />
+    <list default="true" id="fd9bd306-ca76-46d4-996f-69080c1a20ef" name="Changes" comment="new algorithm">
+      <change afterPath="$PROJECT_DIR$/src/main/java/codewars/kata7kyu/TriangleTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +80,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668719829620</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new algorithm">
+      <created>1668812261933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668812261933</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new algorithm">
+      <created>1668812285194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668812285194</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new algorithm">
+      <created>1668812343463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668812343463</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +117,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commiting" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commiting" />
+    <MESSAGE value="new algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="new algorithm" />
   </component>
 </project>
